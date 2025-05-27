@@ -60,6 +60,12 @@ A fully functional calculator using **vanilla JavaScript**, styled with **respon
 
 🔗 [View on GitHub](https://github.com/MarcosBrambilla)
 
+#### 📟 2SControl  
+🗓 *Under development*  
+Stock System Control is a **personal** project aimed at building a stock management system using **Node.js** with **Express** for the backend and **React** for the frontend. It serves as a hands-on challenge to **improve my full-stack development skills**.
+
+🔗 [View on GitHub](https://github.com/MarcosBrambilla/2Scontrol)
+
 ---
 
 ### 📈 GitHub Stats
